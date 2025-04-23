@@ -30,3 +30,10 @@ Imagine giant warehouses filled with super-powerful computers all connected toge
 
 Think of it like this: if Azure was a giant city, the data centers would be the power plants, libraries, and office buildings that keep everything running smoothly!
 
+### City Analogy
+
+![City Analogy](City-cloud.jfif)
+### Animal Kingdome
+ 
+![Animal Kingdome Analogy](animal-kingdom-cloud.jfif)
+
