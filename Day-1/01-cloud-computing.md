@@ -1,6 +1,6 @@
-### Cloud computing
+# Cloud computing
 
-# What is cloud computing?
+## What is cloud computing?
 
 Cloud computing is a technology that enables users to **access and use computing resources**, such as servers,storage, and applications, over the internet. Instead of owning and maintaining physical hardware, users can leverage remote servers hosted in **data centers** to store data, run applications, and perform various computing tasks.
 
@@ -20,7 +20,7 @@ Imagine giant warehouses filled with super-powerful computers all connected toge
 
 **Foundation of Azure**: When you use an Azure service, like creating a virtual machine or storing a file, that's happening on the hardware inside one of these data centers.
 
-# Why are they important?
+## Why are they important?
 
 **Global Reach**: Azure has data centers in many different regions around the world (including one right here in Johannesburg, South Africa!). This means you can choose to have your data and applications close to your users, making things faster.   
 **Reliability**: Microsoft designs these data centers with lots of backup systems for power, cooling, and internet connections. This helps ensure your services stay online even if there's a problem.   
