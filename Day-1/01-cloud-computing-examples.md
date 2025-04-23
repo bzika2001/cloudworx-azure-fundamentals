@@ -1,7 +1,7 @@
 ### Animal Kingdome and habitat
  summary of what each animal/habitat represents
 
-![Animal/habitat Analogy](animal-kingdom-cloud.jfif)
+![Animal/habitat Analogy](animal_habitat-Azure.jfif)
 **Animal Kingdom to Cloud Service Mapping:**
 
 **Coral Reef**: Azure SQL Database (robust database services)
