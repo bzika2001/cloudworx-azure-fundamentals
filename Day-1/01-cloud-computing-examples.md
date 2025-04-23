@@ -1,5 +1,9 @@
 ### Animal Kingdome
- animal kingdom to represent Azure data centers:
+ summary of what each animal/habitat represents
+
+
+
+ 
 ![Animal Kingdome Analogy](animal-kingdom-cloud.jfif)
 ### City Analogy
 ![City Analogy](City-cloud.jfif)
