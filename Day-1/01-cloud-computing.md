@@ -14,8 +14,10 @@ Imagine giant warehouses filled with super-powerful computers all connected toge
 
 **Here's a simple way to understand them:**
 
-**Physical Buildings**: Azure data centers are actual buildings located around the world. Microsoft doesn't usually share the exact addresses for security reasons.   
-**Packed with Hardware**: Inside, you'll find thousands upon thousands of servers, along with cooling systems, power supplies, and networks.   
+**Physical Buildings**: Azure data centers are actual buildings located around the world. Microsoft doesn't usually share the exact addresses for security reasons.  
+
+**Packed with Hardware**: Inside, you'll find thousands upon thousands of servers, along with cooling systems, power supplies, and networks.  
+
 **Foundation of Azure**: When you use an Azure service, like creating a virtual machine or storing a file, that's happening on the hardware inside one of these data centers.
 
 # Why are they important?
