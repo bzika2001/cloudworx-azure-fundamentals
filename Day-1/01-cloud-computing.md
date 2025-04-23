@@ -30,19 +30,4 @@ Imagine giant warehouses filled with super-powerful computers all connected toge
 
 Think of it like this: if Azure was a giant city, the data centers would be the power plants, libraries, and office buildings that keep everything running smoothly!
 
-### City Analogy
 
-![City Analogy](City-cloud.jfif)
-### Animal Kingdome
- 
-![Animal Kingdome Analogy](animal-kingdom-cloud.jfif)
-
-
-**Animal Kingdom to Cloud Service Mapping:**
-
-- **Coral Reef**: Database Services (Azure SQL Database)
-- **Beehive**: Network Services (Azure Virtual Network)
-- **Savanna with Elephants**: Storage Services (Azure Storage)
-- **Jungle with Monkeys**: Application Services (Azure App Service)
-- **Ant Colony**: Development Services (Azure DevOps)
-   - **Tundra with Wolves**: Security Services (Azure Security Center)
