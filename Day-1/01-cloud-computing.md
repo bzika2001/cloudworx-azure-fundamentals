@@ -1,4 +1,4 @@
-# Cloud computing
+# Cloud Computing Fundamentals
 
 ## What is cloud computing?
 
@@ -22,8 +22,10 @@ Imagine giant warehouses filled with super-powerful computers all connected toge
 
 ## Why are they important?
 
-**Global Reach**: Azure has data centers in many different regions around the world (including one right here in Johannesburg, South Africa!). This means you can choose to have your data and applications close to your users, making things faster.   
+**Global Reach**: Azure has data centers in many different regions around the world (including one right here in Johannesburg, South Africa!). This means you can choose to have your data and applications close to your users, making things faster. 
+
 **Reliability**: Microsoft designs these data centers with lots of backup systems for power, cooling, and internet connections. This helps ensure your services stay online even if there's a problem.   
+
 **Security**: Security is a big deal! Azure data centers have strict security measures to protect the physical hardware and your data. 
 
 Think of it like this: if Azure was a giant city, the data centers would be the power plants, libraries, and office buildings that keep everything running smoothly!
