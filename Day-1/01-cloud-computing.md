@@ -65,7 +65,7 @@ Azure ensures your applications are always up and running. It achieves this thro
 
 ### 2. Scalability
 Azure allows you to easily adjust your resources to meet demand. You can scale up (increase resources) or scale out (add more instances).
-
+- **It's scalable**
     - **Vertical scaling**, also known as "scaling up", is the process of adding resources to increase the power of an existing server.
     - **Horizontal scaling**, also known as "scaling out", is the process of adding more servers that function together as one unit.
     
