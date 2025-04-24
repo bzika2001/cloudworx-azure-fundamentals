@@ -40,9 +40,7 @@ Think of it like this: if Azure was a giant city, the data centers would be the 
 | Benefit | Description |
 | -----------------------|:----------- |
 | **It's cost-effective**| Pay-as-you-go or consumption-based pricing model|
-| **It's scalable** |
-    - **Vertical scaling**, also known as "scaling up", is the process of adding resources to increase the power of an existing server.
-    - **Horizontal scaling**, also known as "scaling out", is the process of adding more servers that function together as one unit. |
+| **It's scalable** |  You can scale up (increase resources) or scale out (add more instances) |
 | **It's elastic**       | Dynamic scaling|
 | **It's current**       | Maintained and upgraded by the cloud provider|
 | **It's reliable**      | Fault tolerance                                                          |
