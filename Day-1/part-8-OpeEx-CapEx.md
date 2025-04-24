@@ -2,7 +2,8 @@
 
 There are two cost when running your physical infrastructure.
 
-### CapEx computing costs ( *number of resources your are using*)
+### CapEx computing costs 
+( *number of resources your are using*)
 - Pay as go model
 - Bill is generated immediately
 - No depreciation
@@ -13,7 +14,8 @@ There are two cost when running your physical infrastructure.
 - Datacenter infrastructure costs
 - Technical personnel
 
-### OpEx cloud computing costs ( *Kind of subscription which you are using traditionally physical server you have got*)
+### OpEx cloud computing costs 
+( *Kind of subscription which you are using traditionally physical server you have got*)
 
 - Upfront spending money on physical infrastructure
 - Cost have a value which reduces overtime.
