@@ -37,6 +37,15 @@ Think of it like this: if Azure was a giant city, the data centers would be the 
 
 ## [Benefits of cloud computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing)
 
+| Benefit | Description |
+| -----------------------|:----------- |
+| **It's cost-effective**| Pay-as-you-go or consumption-based pricing model|
+| **It's elastic**       | Dynamic scaling|
+| **It's current**       | Maintained and upgraded by the cloud provider|
+| **It's reliable**      | Fault tolerance                                                          |
+| **It's global**        | Fully redundant datacenters located in various regions all over the globe|
+| **It's secure**        | Broad set of policies, technologies, controls, and expert technical skills|
+
 ### Advantages of Azure
 1. High Availability
 2. Scalability
@@ -44,7 +53,7 @@ Think of it like this: if Azure was a giant city, the data centers would be the 
 4. Global Reach
 5. Elasticity
 6. Fault Tolerance
-7.Customer Latency
+7. Customer Latency
 8. Predictive cost analysis
 9. Security
     
@@ -56,6 +65,9 @@ Azure ensures your applications are always up and running. It achieves this thro
 ### 2. Scalability
 Azure allows you to easily adjust your resources to meet demand. You can scale up (increase resources) or scale out (add more instances).
 
+    - **Vertical scaling**, also known as "scaling up", is the process of adding resources to increase the power of an existing server.
+    - **Horizontal scaling**, also known as "scaling out", is the process of adding more servers that function together as one unit.
+    
 **Example**: An e-commerce website can automatically add more servers during a flash sale.
 Azure offers both Horizontal and Vertical scaling.
 
