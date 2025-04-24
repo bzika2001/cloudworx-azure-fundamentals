@@ -27,9 +27,10 @@ Okay, let's brainstorm another analogy for the Shared Responsibility Model in Az
 Imagine you've just moved into a new apartment:
 
 - **The Landlord (Microsoft Azure)**: The landlord owns the building and is responsible for the security of the building.  This includes:  
-      - **Physical Security**: They make sure the building has secure doors, locks on the main entrances, and maybe even security cameras. They're responsible for the foundation and structure.
-      - **Utilities**: They provide the basic infrastructure like electricity, water, and maybe internet access up to a certain point.
-      - **Common Areas**: They maintain the security and upkeep of hallways, elevators, and other shared spaces.
+     - **Physical Security**: They make sure the building has secure doors, locks on the main entrances, and maybe even security cameras. They're responsible for the foundation and structure.
+     - **Utilities**: They provide the basic infrastructure like electricity, water, and maybe internet access up to a certain point.
+     - **Common Areas**: They maintain the security and upkeep of hallways, elevators, and other shared spaces.
+       
 - **You (the Customer)**: As the renter, you are responsible for the security in your apartment. This includes:
 
      - **Your Belongings**: Keeping your valuables safe inside your unit.
