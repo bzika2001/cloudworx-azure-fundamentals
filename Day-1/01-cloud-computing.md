@@ -1,4 +1,4 @@
-# Cloud Computing Fundamentals
+# Cloud Concepts - Principles of cloud computing
 
 ## What is cloud computing?
 
