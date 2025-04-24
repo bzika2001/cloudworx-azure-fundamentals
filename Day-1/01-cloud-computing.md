@@ -34,7 +34,7 @@ Imagine giant warehouses filled with super-powerful computers all connected toge
 **Security**: Security is a big deal! Azure data centers have strict security measures to protect the physical hardware and your data. 
 
 Think of it like this: if Azure was a giant city, the data centers would be the power plants, libraries, and office buildings that keep everything running smoothly!
----
+
 ## [Benefits of cloud computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing)
 
 ### 1. High Availability
