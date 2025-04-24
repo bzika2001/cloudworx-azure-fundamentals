@@ -1,3 +1,4 @@
+![Exam AZ-900](../images/az900.png "Exam AZ-900")
 ## Capital expenditure (CapEx) versus operational expenditure (OpEx)
 
 There are two cost when running your physical infrastructure.
