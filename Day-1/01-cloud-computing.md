@@ -2,7 +2,12 @@
 
 ## What is cloud computing?
 
-Cloud computing is a technology that enables users to **access and use computing resources**, such as servers,storage, and applications, over the internet. Instead of owning and maintaining physical hardware, users can leverage remote servers hosted in **data centers** to store data, run applications, and perform various computing tasks.
+Cloud computing is a technology that enables users to **access and use computing resources**, such as servers,storage, and applications, over the internet. Instead of owning and maintaining physical hardware, users can leverage remote servers hosted in **data centers** to store data, run applications, and perform various computing tasks.However, typically they include:
+
+- **Compute power** - such as Linux servers or web applications
+- **Storage** - such as files and databases
+- **Networking** - such as secure connections between the cloud provider and your company
+- **Analytics** - such as visualizing telemetry and performance data
 
 
 **Data center**
