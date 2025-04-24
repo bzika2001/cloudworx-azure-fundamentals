@@ -38,7 +38,6 @@ Think of it like this: if Azure was a giant city, the data centers would be the 
 ## [Benefits of cloud computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing)
 
 ### Advantages of Azure
-==Advantages of Azure==
 1. High Availability
 2. Scalability
 3. Agility
